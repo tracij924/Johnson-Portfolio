@@ -4,7 +4,7 @@ This is my Online Portfolio for the Telling Stories with Data class at Heinz Col
 
 # **About Me**
 
-[![Traci](https://github.com/tracij924/Johnson-Portfolio/blob/main/IMG_0953%20(1).jpg)]
+![Traci](https://github.com/tracij924/Johnson-Portfolio/blob/main/IMG_0953%20(1).jpg)
 
 
 My name is Traci. I am currently a part-time Masters in Public Management student at CMUs Heinz College.
@@ -17,7 +17,7 @@ Data plays an important role in all of my work from our community investments to
 In my work I am interested in our impact as a Foundation. Data also tells me how to shape our various grantmaking strategies. When I graduate from Heinz, I am hoping that I can continue in philanthropy. My aim is to one day lead as foundation as the CEO.
 
 
-#**What I Hope To Learn**
+# **What I Hope To Learn**
 
 As mentioned in the *About Me* section, data is crucial to my work. 
 I have learned that data is crucial to sharing impact for nonprofit organizations and philanthropy is no different.
@@ -27,3 +27,7 @@ I want to be able to see and share how our grantmaking is making an impact in th
 I also would like to be able to share the gaps in our work through data.
 I can do simple bar and pie charts.
 But, I would like to be able to do sophisticated presentations like I the first day of class.  That is what I want to learn and apply.
+
+
+# **Portfolio**
+You can check out all of my new and improved data visualizations here!
