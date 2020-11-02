@@ -4,7 +4,8 @@ This is my Online Portfolio for the Telling Stories with Data class at Heinz Col
 
 # **About Me**
 
-! [Traci] (IMG_0953 (1).jpg)
+[![Traci](https://cldup.com/dTxpPi9lDf.thumb.png)]
+
 
 My name is Traci. I am currently a part-time Masters in Public Management student at CMUs Heinz College.
 When I'm not working on MPM classes, I work full-time as a Program Officer at POISE Foundation.  POISE is a Black-led, Black serving community foundation in Pennsylvania.
