@@ -5,7 +5,8 @@ This is my *Online Portfolio* for the Telling Stories with Data class at Heinz C
 
 # **About Me**
 
-![Traci](https://github.com/tracij924/Johnson-Portfolio/blob/main/IMG_0953%20(1).jpg)
+<img src="https://github.com/tracij924/<Johnson-Portfolio>/blob/master/<IMG_0953.jpg>
+          
 
 
 My name is Traci. I am currently a part-time Masters in Public Management student at CMUs Heinz College.
