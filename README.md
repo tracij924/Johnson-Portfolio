@@ -5,7 +5,7 @@ This is my *Online Portfolio* for the Telling Stories with Data class at Heinz C
 
 # **About Me**
 
-<img src="https://github.com/tracij924/<Johnson-Portfolio>/blob/master/<IMG_0953.jpg>
+<img src="https://github.com/tracij924/<Johnson-Portfolio>/blob/master/<IMG_0953>
           
 
 
