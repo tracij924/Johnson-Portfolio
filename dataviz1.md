@@ -15,6 +15,7 @@
 
 
 
+### **Explanation**
 The method used in the bar chart allows one to see simply who has the highest Debt to GDP ratio among the GDP countries and who has the lowest. 
 You can hover over the graphs to learn exact numbers over the years and amounts. 
 But, overall the first graph gives the audience a picture of smallest to largest Debt to GDP ratio.
