@@ -33,7 +33,7 @@ But, I would like to be able to do sophisticated presentations like I the first 
 # **Portfolio**
 You can check out all of my new and improved data visualizations here!
 
-[Google sheets San Francisco Street Cleaning Data](/San_Fran.md)
+[Google Sheets San Francisco Street Cleaning Data](/San_Fran.md)
 
 [Government Debt Data Visualizations](/dataviz1.md)
 
