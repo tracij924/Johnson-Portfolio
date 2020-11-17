@@ -20,7 +20,7 @@ I first started by wanting to make changes to the visualiation and the amount of
 
 So I started with this basic wire frame:
 
-![Wireframe](https://github.com/tracij924/Johnson-Portfolio/blob/main/Data%20Project%20Assg%204.png)
+![Wireframe](Wireframe4.png)
 
 This was my rough sketch and basic idea. I kept the bar chart and I started with all of the bars going in the same direction.
 
