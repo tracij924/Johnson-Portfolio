@@ -37,3 +37,5 @@ You can check out all of my new and improved data visualizations here!
 
 [Government Debt Data Visualizations](/dataviz1.md)
 
+[Assignment 4 Data Visualizations](/dataviz4.md)
+
