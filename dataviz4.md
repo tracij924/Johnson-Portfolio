@@ -18,6 +18,14 @@ of the Total Number Of Grants.  I also began to question that with an invesment 
 
 I first started by wanting to make changes to the visualiation and the amount of data used.  I liked the use of black and gray as colors.  I also liked that the data was labeled. I liked the use of the bar chart but I don't like how the bars are going in the same direction. I would opt to pair them if possible going in the same direction or I would have them going in opposite directions and give color to the bars that I wanted to use as the center of my story. I would also change the title for clarity.
 
-So i started with this basic wire frame:
+So I started with this basic wire frame:
+
+![Wireframe](https://github.com/tracij924/Johnson-Portfolio/blob/main/Data%20Project%20Assg%204.png)
+
+This was my rough sketch and basic idea. I kept the bar chart and I started with all of the bars going in the same direction.
+
+I then moved to some detailed draft sketches for to get feedback from peers.
+
+
 
 
