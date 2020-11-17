@@ -27,5 +27,10 @@ This was my rough sketch and basic idea. I kept the bar chart and I started with
 I then moved to some detailed draft sketches for to get feedback from peers.
 
 
+![Sketch1](https://github.com/tracij924/Johnson-Portfolio/blob/main/IMG_0997.jpg)
+
+
+
+
 
 
