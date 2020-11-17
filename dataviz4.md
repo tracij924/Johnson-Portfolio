@@ -6,7 +6,7 @@ The data is freely accessible along with the charts. But you can not download it
 data for Early Childhood Education in the United States.
 
 Here is a link to the data:
-[GitHub](https://maps.foundationcenter.org/#/charts/?subjects=all&popgroups=all&years=all&location=6252001&excludeLocation=0&geoScale=ADM1&layer=recip&boundingBox=-157.060546875,18.729501999072138,-47.02148437499999,58.12431960569374&gmOrgs=all&recipOrgs=all&tags=all&keywords=&pathwaysOrg=&pathwaysType=&acct=earlychildren&typesOfSupport=all&transactionTypes=all&amtRanges=all&minGrantAmt=0&maxGrantAmt=0&gmTypes=all&minAssetsAmt=0&maxAssetsAmt=0&minGivingAmt=0&maxGivingAmt=0&andOr=0&includeGov=1&custom=all&customArea=all&indicator=&dataSource=oecd&chartType=bars&multiSubject=1&listType=gm&windRoseAnd=undefined&zoom=4)
+[Data Visualization](https://maps.foundationcenter.org/#/charts/?subjects=all&popgroups=all&years=all&location=6252001&excludeLocation=0&geoScale=ADM1&layer=recip&boundingBox=-157.060546875,18.729501999072138,-47.02148437499999,58.12431960569374&gmOrgs=all&recipOrgs=all&tags=all&keywords=&pathwaysOrg=&pathwaysType=&acct=earlychildren&typesOfSupport=all&transactionTypes=all&amtRanges=all&minGrantAmt=0&maxGrantAmt=0&gmTypes=all&minAssetsAmt=0&maxAssetsAmt=0&minGivingAmt=0&maxGivingAmt=0&andOr=0&includeGov=1&custom=all&customArea=all&indicator=&dataSource=oecd&chartType=bars&multiSubject=1&listType=gm&windRoseAnd=undefined&zoom=4)
 
 
 I found the visualization to be basic but not intuitive at first glance.  This tool is used by grant seekers and grantmakers.
