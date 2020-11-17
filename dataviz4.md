@@ -37,8 +37,17 @@ I then moved to some detailed draft sketches for to get feedback from peers.
 
 I got feedbback from a classmate and a co-worker.  They liked both charts but the they liked the second one more.  My classmate remarked that sketch 2 had a cleaner look. She also liked the choice of colors and felt the titles was strong and informative.  My co-worker thought that by separating the bars as in sketch 2 would do a better job of conveying the message that the investment amount and the grants given are not quite in sync.  She also thought the chart could lead the viewer to ask questions about impact and the dispproportionate funding of organizations that are lead by and serve Black, Indigenous people of color.
 
-So, I decided to go with sketch 2.  I decided to work in Tableau.  As I was trying to create this new visualization, I was unable to do what I have sketched. So, I decided on a butterfly bar chart.  This enabled me to break up the bars and give the chart that clean look.  I kept the color scheme and highlighted with color the disparity in the grants given as compared to the philanthropic investment.
+So, I decided to go with sketch 2.  I decided to work in Tableau.  As I was trying to create this new visualization, I was unable to do what I have sketched. So, I decided on a butterfly bar chart.  This enabled me to break up the bars and give the chart that clean look.  I kept the color scheme and highlighted with color the disparity in the grants given as compared to the philanthropic investment.  I could not get the link to copy correcty from Tableau even with moving spaces, I was still getting errors.
 
-So here is my recreated chart:
+So here was my first attempt:
 
 <div class='tableauPlaceholder' id='viz1605640171186' style='position: relative'><noscript><a href='#'><img alt=' 'src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ea&#47;EarlyChildhoodGrantInvestmentver_2&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='EarlyChildhoodGrantInvestmentver_2&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><paramname='static_image'value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ea&#47;EarlyChildhoodGrantInvestmentver_2&#47;Sheet1&#47;1.png' /> <paramname='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1605640171186');var vizElement=divElement.getElementsByTagName('object')[0];vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';varscriptElement=document.createElement('script');scriptElement.src='https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+
+
+Since I coould not get the link to work properly, I changed the design again and used Flourish.  I created two charts imbedded in one. One chart shows the philanthropic investment and the other shows the grants given.  I ordered the bars from the top 10 states to the bottom 10 states. I opted not to show the data points but kept the grid lines. You can hover over the bars and see the data.
+
+Here is the final chart:
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/4382542"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
