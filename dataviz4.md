@@ -28,11 +28,11 @@ I then moved to some detailed draft sketches for to get feedback from peers.
 
 
 ## **Sketch 1**
-![Sketch1](https://github.com/tracij924/Johnson-Portfolio/blob/main/IMG_0997.jpg)
+![Sketch1](Sketch1.jpg)
 
 
 ## **Sketch 2**
-![Sketch2](https://github.com/tracij924/Johnson-Portfolio/blob/main/IMG_0998.jpg)
+![Sketch2](Sketch2.jpg)
 
 
 I got feedbback from a classmate and a co-worker.  They liked both charts but the they liked the second one more.  My classmate remarked that sketch 2 had a cleaner look. She also liked the choice of colors and felt the titles was strong and informative.  My co-worker thought that by separating the bars as in sketch 2 would do a better job of conveying the message that the investment amount and the grants given are not quite in sync.  She also thought the chart could lead the viewer to ask questions about impact and the dispproportionate funding of organizations that are lead by and serve Black, Indigenous people of color.
