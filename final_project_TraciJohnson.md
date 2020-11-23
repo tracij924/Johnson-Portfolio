@@ -36,5 +36,18 @@ I used Balsamiq to do some general sketches for the data and some sections I hop
 
 ![CCNF2](CCNFWF2.png)
 
+## **The Data**
+
+I plan to use the data that the Foundation collected before and during the launch of CCNF. That data includes the following:
+1. Community Survey Data
+2. Foucs Group Data
+3. Application Data
+4. Grantee Report Data
+5. Donor Data??
+
+The data is property of the Foundation.  But the portions that I plan to use are available to the public and has been used onthe website, in articles, grant proposals and reports.  I don't plan to use data that will identify specific organizations or donors.
+
+## **Method and Medium**
+
 
 
