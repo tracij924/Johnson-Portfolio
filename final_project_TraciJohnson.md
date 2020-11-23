@@ -30,5 +30,11 @@ The far reaching impact fo COVID-19 continues to wreak devastation in Pittsburgh
 
 ## **Sketches**
 
+I used Balsamiq to do some general sketches for the data and some sections I hope to have.
+
+![CCNF1](CCNFWF1.png)
+
+![CCNF2](CCNFWF2.png)
+
 
 
