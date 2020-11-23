@@ -39,3 +39,7 @@ You can check out all of my new and improved data visualizations here!
 
 [Assignment 4 Data Visualizations](/dataviz4.md)
 
+[Final Project Part 1](/final_project_TraciJohnson.md)
+
+
+
