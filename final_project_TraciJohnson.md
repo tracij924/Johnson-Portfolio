@@ -49,5 +49,8 @@ The data is property of the Foundation.  But the portions that I plan to use are
 
 ## **Method and Medium**
 
+For this project, my first step is to download my data into excel. I am hoping to use Flourish and Tableau for the charts I plan to create. I also want to make sure that my story is clear and to the point. I want to take the audience on our journey of shifting priorities to meet community needs. After downloading the data, I will make some more sketches to decide on the best visuals for the story.
+
+Throughout this process, I plan to get feedback from my supervisor - the COO, the Director of Development, and some one outside of the organization. Feedback will be critical to this work. It will help to catch gaps in the story, expose confusing visuals, and/or even ensure that we are telling the right story in the right manner. I plan to use Shorthand for the Shorthand for the digital platform.
 
 
