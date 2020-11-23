@@ -1,6 +1,6 @@
 # **POISE Foundation Critical Community Needs Fund**
 
-**Summary**
+##**Summary**
 
 I am a Program Officer at POISE Foundation. POISE is a Black-led, Black serving community foundation.
 When the COVID-19 Pandemic began to disproportionately impact Black-led, Black serving nonprofits and churches, the Foundation immediately took action to assess the needs of the community and the organizations that serve them.
@@ -10,7 +10,7 @@ CCNF provides COVID-19 emergency grants up to $25,000 for small to medium-sized 
 Organizations must have a budget of $600,000 or less and 10 or less employees.  As the program officer that designed this grant strategy, i want to take a dive into the data that we have collected to tell the story of CCNF and our impact to date.
 
 
-**Project Outline**
+##**Project Outline**
 
 *Setup*
 
@@ -28,7 +28,7 @@ After a communty survey and a series of focus groups, POISE Foundation establish
 
 The far reaching impact fo COVID-19 continues to wreak devastation in Pittsburgh's Black community, especially, Black families and seniors. To continue to support the great work of these frontline organizations, invest in Black communities and strengthen families and seniors - give to the Critical Community Needs Fund.
 
-**Sketches**
+##**Sketches**
 
 
 
