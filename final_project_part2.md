@@ -1,9 +1,9 @@
-# **Final Project Part 2
+# Final Project Part 2
 
 My *wireframe/stoeyboard* was completed in Shorthand.  Please click this link to view:
 [Shorthand](https://preview.shorthand.com/zbfc0Zu9J1xfGYhJ)
 
-### **Target Audience
+### ** Target Audience
 
 For my target audience, my aim is to reach the public at large as well as the philanthropic community as well.
 My story hopes to inform the public and the philanthropic community about the following:
