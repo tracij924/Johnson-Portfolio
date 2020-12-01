@@ -34,6 +34,43 @@ I was able to email these questions to individuals for feedback and I had follow
 
 ### Interview Findings
 
+*Question 1
+
+3 out of 5 were aware of some limited COVID-19 philanthropic investments in the marginalized communities of Allegheny and Beaver counties.
+I know that some local foundations have COVID-19 related philanthropy efforts, and might have some language alluding to how marginalized communities are facing the effects of COVID at a greater rate, but I am not immediately aware of any philanthropic efforts aside from the POISE foundation that specifically aid Black communities in the context of COVID-19.
+
+*Question 2
+
+Graphs were a great companion to the narrative.
+Graphs were a bit hard to read. 
+Graphs help the reader to better understand the inequities.
+The flow/order of the data points and the narrative make total sense throughout! 
+I like that you set the stage with overall statistics and then made those hit home even harder by dictating how they impact the lives of a family who could easily be a neighbor to me.
+The only thing I might adjust is describing the Tyson family needs a little bit more before switching in the program information. 
+
+*Question 3
+
+In the section at the end "The Critical Community Needs Fund was able to invest funds into various Black-led, Black serving organizations in communities like the Tyson's." where you have how much has been invested, etc., for me it would have been nice to see the types of investment and the % that went to each one.
+I see the # of orgs funded, # invested, and how much raised, but no other details.
+If they see that over a billion (maybe a typo) was raised and just 966K was invested they may have questions. 
+The section immediately prior to the Call to Action outlines the statistics and achievements of POISE's Critical Community Needs fund, but it doesn't link those achievements to the Tyson Family section before it. 
+I really liked the use of the Tyson family, but I'm not sure where they ended up or how exactly the Critical Community Needs Fund helped them. Further explaining how the Fund helped them would make a more fluid transition to a case for supporting the fund.
+I think the CCNF graphs toward the end could use a little bit more explanation -- maybe some message titles or something could work. 
+
+*Question 4
+
+Would like to know what happens to the Tyson family in the end.
+A map with pins indicating the orgs funded between Allegheny and Beaver or the zip codes would be a great addition.
+Hyperlink www.poisefoundation.org to make it easier for readers to follow through with the Call to Action.
+How did the CCNF specifically serve families like the Tysons? Create the link between grant investment and the Tyson family.
+
+*Question 5
+
+All interviewees were compelled to support the fund.
+Absolutely! In addition to my recommendation about following through with the fund's impact on the Tyson family, I think that taking the time at the end of the narrative before the call to action to explicitly discuss how the fund is fighting against the disparities Black communities are facing could make it even more compelling.
+Yes! It does line up with my own values and the fund is clearly addressing a need that isn't being met.
+
+### Implementation Plan
 
 
 
