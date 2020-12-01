@@ -3,7 +3,7 @@
 My *wireframe/stoeyboard* was completed in Shorthand.  Please click this link to view:
 [Shorthand](https://preview.shorthand.com/zbfc0Zu9J1xfGYhJ)
 
-### ** Target Audience
+### Target Audience
 
 For my target audience, my aim is to reach the public at large as well as the philanthropic community as well.
 My story hopes to inform the public and the philanthropic community about the following:
@@ -13,14 +13,14 @@ My story hopes to inform the public and the philanthropic community about the fo
 4. How they can support Black families through the Critical Community Needs Fund.
 
 
-### **Interviewees
+### Interviewees
 
 I wanted to interview people from the the philanthropic community and the public at larger.  I wanted to obtain input from thos familiar with POISE and the Critical Community Needs Fund and those maybe not so familar.  I also wanted to see if the public was aware of philanthropic investments in the Black community to mitigate disparities from COVID-19. I was able to interview five individuals from the following groups:
 1. Philanthropy
 2. Public at-Large
 3. Black Community Member
 
-### **Scripts
+### Scripts
 
 For my script I asked the following questions:
 
@@ -32,7 +32,7 @@ For my script I asked the following questions:
 
 I was able to email these questions to individuals for feedback and I had follow-up conversations with some to gain clarity as needed.
 
-### **Interview Findings
+### Interview Findings
 
 
 
