@@ -41,5 +41,7 @@ You can check out all of my new and improved data visualizations here!
 
 [Final Project Part 1](/final_project_TraciJohnson.md)
 
+[Final Project Part 2](/final_project_part2.md)
+
 
 
