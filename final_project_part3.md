@@ -54,3 +54,6 @@ due to the pandemic.
 
 [Final Project Part 2](/final_project_part2.md)
 
+[Main Page](/README.md)
+
+
