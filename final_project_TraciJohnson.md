@@ -53,4 +53,6 @@ For this project, my first step is to download my data into excel. I am hoping t
 
 Throughout this process, I plan to get feedback from my supervisor - the COO, the Director of Development, and some one outside of the organization. Feedback will be critical to this work. It will help to catch gaps in the story, expose confusing visuals, and/or even ensure that we are telling the right story in the right manner. I plan to use Shorthand for the Shorthand for the digital platform.
 
+[Final Project Part 2](/final_project_part2.md)
+
 
