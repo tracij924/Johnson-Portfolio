@@ -48,7 +48,7 @@ my visuals.  All of the images of the virus and the family was purchased from Sh
 After the visuals were constructed, I worked began to work on the Tyson family narrative. I had a starting point from my wireframe in Part 2.
 I received great feedback about using a family to highlight the story. Interviewees wanted more connections between the Tysons and the Critical
 Community Needs Fund. They also wanted some closure.  So, the narrative was built to add those connections and even though there is closure, there is also uncertainty
-due to the pandemic.
+due to the pandemic. It was natural to take this narrative and connect it to the call to action, which is to support families like the Tysons by donating to the Critical Community Needs Fund. 
 
 [Final Project Part 1](/final_project_TraciJohnson.md)
 
