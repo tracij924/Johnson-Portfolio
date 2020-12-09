@@ -9,7 +9,7 @@
 
 The focus of my project was to share some of the year to date impact of POISE Foundation's Critical Community Needs Fund on Black communities and families in the Pittsburgh Region.
 I planned to analyze the data that POISE was able to collect via our Critical Community Needs grant application and the first wave of grant reports from grantees.
-My goal was to tell the story of impact from the perspective of a typical Black family that our grantees would serve.  My target audience is the following:
+My goal was to tell the story of impact from the perspective of a typical Black family that our grantees would serve - The Tysons.  My target audience is the following:
 
 1. POISE Board Members and Staff
 2. The Philanthropic Community at large
