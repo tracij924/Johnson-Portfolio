@@ -43,5 +43,6 @@ You can check out all of my new and improved data visualizations here!
 
 [Final Project Part 2](/final_project_part2.md)
 
+[Final Project Part 3](/final_project_part3.md)
 
 
