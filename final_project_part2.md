@@ -75,4 +75,9 @@ Yes! It does line up with my own values and the fund is clearly addressing a nee
 From the feedback, I will work on firming up the Tyson's story and make sure the ending connects to the Call to Action.  I also need to determine which data supports the story. I may need to move the CCNF investment in this way - Organization, County, Community, Priority Areas.  Then I can tie this back to the family.  I wish I could incorporate a map. I may look into it for the County investment if I can find a map for Pennsylvania.
 I'm not sure why my Balsamiq images were so small and my Infogram images were so small. I need to figure this piece out.  I also need to think about the right transition layout that will better tell the story and make sure that my visualization titles are impactful.
 
+[Final Project Part 1](/final_project_TraciJohnson.md)
+
+[Final Project Part 3](/final_project_part3.md)
+
+[Main Page](/README.md)
 
